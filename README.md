@@ -1,5 +1,5 @@
 # Author: Siddharth Parmar
-# Project: Sky Day Count using React and Redux
+# Project: Ski Day Count using React and Redux
 
 # Instructions:
 - clone this project and open your terminal from that dir.
